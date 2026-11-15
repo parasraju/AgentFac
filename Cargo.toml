@@ -1,0 +1,5 @@
+[package]
+name = "agentfac"
+version = "0.1.0"
+edition = "2021"
+description = "Pick a skill chain locally and run it on a git repo"
